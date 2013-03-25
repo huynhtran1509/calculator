@@ -1,5 +1,5 @@
 //
-// Prefix header for all source files of the 'calculator' target in the 'calculator' project
+// Prefix header for all source files of the 'bootcampcalculator' target in the 'bootcampcalculator' project
 //
 
 #import <Availability.h>
